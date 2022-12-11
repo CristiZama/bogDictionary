@@ -51,7 +51,7 @@ morcov vorcom
 rosie sorvie
 castravete gulpinder
 cartof fortonis
-cartofi prajiti holin_fortonis
+cipsuri holin_fortonis
 burger barvondir
 pizza pizza
 ketchup lond
@@ -85,11 +85,10 @@ asta this
 la al
 eu e
 tu t
-eu+tu terap
 noi ion
 voi cvas
-noi+voi = noup
-ei, ele iis, yes
+ei iis
+ele yes
 ok oko
 cacat burcu
 pisat chizburgher
@@ -104,36 +103,32 @@ creion oreo
 pix xilo
 carte etrac
 calculator aitsnic
-jucariesist
-dumnezeu(in orice religie) fraunen
-iisussus
-icoana mona lisa
+jucarie sist
+dumnezeu fraunen
+iisus sus
+icoana mona_lisa
 popa gixi 
-sexiststes
-omg(oh my god) croc fraunen(sau croc fraus)
-idi nahu t i jr; jdi do prdele; t jr jr
-wtf qeth imbi(pronuntare: chef imbi)(sau chimbi); chifir
-imi place donlaih
-nu imi place ilaih
-te rog t i drag
+sexist stes
+omg croc_fraunen
+idi_nahu t_i_jr
+wtf qeth_imbi
+imi_place donlaih
+nu_ imi_place ilaih
+te_rog t_i_drag
 scuze chlachi
 romana danu
 engleza nu
-chinezasuperidoltheshow
+chineza superidoltheshow
 rusa invadr
 ucraineana aristotel
 germana krankenhaus
-poloneza kurwa; franskok
-ungara vain kampf
+poloneza franskok
+ungara vain_kampf
 bulgara ruser
 japoneza hentur
-koreanaseoul
+koreana seoul
 pa nein
 buna cvoi
-buna ziua cvoisuhariku
-bunaseara cvoi zahace
-buna noapte cvoi fiuainal
-buna amiaza cvoi bonov
 piatra nien
 diamant neo
 argint tmi
@@ -146,32 +141,30 @@ caine chingchong
 cal hita
 stea urtos
 brad famul
-jucarii de bradsed
-mos craciun tuian zaizan
+jucarii_de_brad sed
 craciun zaizan
 elf ave
-mos nicolae tuian nicolaso
-anul nou nam yonan
+anul_nou nam_yonan
 tara sogol
-orassoroc
+oras soroc
 satsit
 regiune rachiu
 toamna unu
 iarna fiurst
 primavara zarb
 vara rebdusca
-ian nou
-feb pes
-mar fleur
-apr ramas
-maisultan
-iun cul
-iul toh
-augsed
-sept arisorti
-oct halou
-nov nnn
-dec jaiz
+ianuarie nou
+februarie pes
+martie fleur
+aprilie ramas
+mai sultan
+iunie cul
+iulie toh
+august sed
+septembrie arisorti
+octombrie halou
+noiembrie nnn
+decembrie jaiz
 luni hell
 marti tu
 miercuri cacioc
@@ -183,10 +176,10 @@ sora jan
 frate and
 mama mi
 tata firstimic
-stepsisterstak
-stepbrother helpr
-stepmomsmi
-stepfatherspa
+sora_vitregă stak
+frate_vitreg helpr
+mama_vitrega smi
+tata_vitreg spa
 iubit cieaz
 iubita cieaun
 monstru zabivcreaza
